@@ -180,7 +180,7 @@ word-search/
 ## 🤝 Support
 
 For support, feature requests, or bug reports, please:
-1. Open an issue on our [GitHub repository](https://github.com/yourusername/word-search)
+1. Open an issue on our [GitHub repository](https://github.com/Souravpandev/word-search-puzzle-game-wordpress-plugin/issues)
 2. Include WordPress version and PHP version
 3. Describe the issue in detail
 
