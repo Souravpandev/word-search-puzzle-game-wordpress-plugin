@@ -191,5 +191,6 @@ This plugin is licensed under the GPL v2 or later.
 ## 🙏 Credits
 
 - Word search generation powered by WordFind.js
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by Sourav Pan
+- My website  [WP Optimizelab](https://wpoptimizelab.com/)
 - Special thanks to all contributors
